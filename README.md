@@ -1,19 +1,26 @@
 
-<div align="center"> # Muhammad Hussein </div>
+# Hi, I'm Muhammad Hussein! 👋
 
 Computer Science Student in University Of Peshawar
 and working as an Internee in National Center of Artificial Intilligence
 ## 🚀 About Me
-I'm Machine Learning Engineer and FrontEnd web devoloper
+I'm Machine Learning Engineer and Frontend Web Devoloper
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Python, PyTorch, TensorFlow, sklearn, Pandas
+* Javascript 
+* HTML 
+* CSS
+* Python
+* PyTorch 
+* TensorFlow 
+* sklearn
+* Pandas
 
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hussein-18774b229/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hussein-18774b229/) 
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/husseinkhan237/)
 
