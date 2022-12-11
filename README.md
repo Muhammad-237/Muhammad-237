@@ -1,5 +1,5 @@
 
-# Muhammad Hussein
+<div align="center"> # Muhammad Hussein </div>
 
 Computer Science Student in University Of Peshawar
 and working as an Internee in National Center of Artificial Intilligence
