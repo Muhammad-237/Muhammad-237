@@ -2,6 +2,17 @@
 
 ## Machine Learning Engineer | Computer Vision Developer | Researcher
 
+### 📊 GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-237&show_icons=true&theme=dark" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-237&theme=dark" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-237&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+
+
 ### About Me
 Machine Learning Engineer specializing in Computer Vision and Deep Learning, with a focus on healthcare applications. Currently working as a Computer Vision Developer at The Disrupt Lab, developing innovative solutions for workplace safety and monitoring.
 
@@ -25,6 +36,7 @@ Machine Learning Engineer specializing in Computer Vision and Deep Learning, wit
   - Drowsiness detection (83% accuracy)
   - Image clustering
   - Pose estimation systems
+
 
 ### 🛠️ Tech Stack
 ```python
@@ -66,9 +78,6 @@ Machine Learning Engineer specializing in Computer Vision and Deep Learning, wit
 - [<img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white"/>](https://sites.google.com/view/engineermuhammad/home)
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/muhammad-hussein-khan)
 - [<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>](mailto:muhammad.hussein237@gmail.com)
-
-### 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-237&show_icons=true&theme=dark)
 
 ---
 ⭐️ From [Muhammad-237](https://github.com/Muhammad-237)
