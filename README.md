@@ -3,12 +3,20 @@
 ## Machine Learning Engineer | Computer Vision Developer | Researcher
 
 ### 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-237&show_icons=true&theme=dark" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-237&theme=dark" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-237&layout=compact&theme=dark" alt="Top Languages" />
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-237&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-237&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-237&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Muhammad-237/github-readme-stats)
+
+[![Muhammad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-237&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/Muhammad-237/github-readme-activity-graph)
+
+### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muhammad-237&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 
