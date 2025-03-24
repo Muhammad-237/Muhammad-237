@@ -29,7 +29,7 @@ Machine Learning Engineer specializing in Computer Vision and GenAI, with a focu
 - Minor: Artificial Intelligence
 
 ### 🔬 Research Publications
-- **Optimizing Reinforcement Learning Agents in Games** (Computer Animation and Virtual Worlds)
+- **Optimizing Reinforcement Learning Agents in Games** (Computer Animation and Virtual Worlds) DOI: https://doi.org/10.1002/cav.70008
 - **Alzheimer's Disease Detection using Deep CNN** (Pre-Print)
 - **Diabetic Retinopathy Detection Framework** (Bachelor Thesis)
 
