@@ -1,6 +1,6 @@
 # Muhammad Hussein Khan 👨‍💻
 
-## Machine Learning Engineer | Computer Vision Developer | Researcher
+## Machine Learning Engineer | Computer Vision Developer | GenAI | Researcher
 
 ### 📊 GitHub Statistics
 
@@ -22,14 +22,14 @@
 
 
 ### About Me
-Machine Learning Engineer specializing in Computer Vision and Deep Learning, with a focus on healthcare applications. Currently working as a Computer Vision Developer at The Disrupt Lab, developing innovative solutions for workplace safety and monitoring.
+Machine Learning Engineer specializing in Computer Vision and GenAI, with a focus on healthcare and comercial applications. Currently working as a GenAI and Computer Vision Engineer at The Disrupt Labs, developing innovative solutions for workplace safety and monitoring.
 
 🎓 BS Computer Science | University of Peshawar | CGPA: 3.54/4.0
 - Major: Computer Science
 - Minor: Artificial Intelligence
 
 ### 🔬 Research Publications
-- **Optimizing Reinforcement Learning Agents in Games** (Computer Animation and Virtual Worlds, Submitted)
+- **Optimizing Reinforcement Learning Agents in Games** (Computer Animation and Virtual Worlds)
 - **Alzheimer's Disease Detection using Deep CNN** (Pre-Print)
 - **Diabetic Retinopathy Detection Framework** (Bachelor Thesis)
 
