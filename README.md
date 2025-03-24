@@ -1,6 +1,6 @@
 # Muhammad Hussein Khan 👨‍💻
 
-## Machine Learning Engineer | Computer Vision Developer | GenAI | Researcher
+## Machine Learning Engineer | Computer Vision Engineer | GenAI Engineer | Researcher
 
 ### 📊 GitHub Statistics
 
